@@ -16,7 +16,7 @@ and course staff.
 This document describes what you need to do to get started with git, and also
 download and upload 4371/5371 labs via GitHub.
 
-**If you are not a registered student at MIT, you are welcome to follow along,
+**If you are not a registered student at Yale, you are welcome to follow along,
 but we ask you to please keep your solution PRIVATE and not make it
 publicly available**
 
@@ -72,7 +72,7 @@ You should have Git installed from the previous section.
 1. The first thing we have to do is to clone the current lab repository by issuing the following commands on the command line:
 
    ```bash
-    $ git clone https://github.com/MIT-DB-Class/go-db-2024.git
+    $ git clone https://github.com/yale-systems/go-db-2026.git
    ```
 
    Now, every time a new lab or patch is released, you can
@@ -95,8 +95,8 @@ You should have Git installed from the previous section.
 
    ```bash
     $ git remote -v
-        origin https://github.com/MIT-DB-Class/go-db-2024.git (fetch)
-        origin https://github.com/MIT-DB-Class/go-db-2024.git (push)
+        origin https://github.com/yale-systems/go-db-2026.git (fetch)
+        origin https://github.com/yale-systems/go-db-2026.git (push)
    ```
 
    We don't want that remote to be the origin. Instead, we want to change it to point to your repository. To do that, issue the following command:
@@ -109,8 +109,8 @@ You should have Git installed from the previous section.
 
    ```bash
     $ git remote -v
-        upstream https://github.com/MIT-DB-Class/go-db-2024.git (fetch)
-        upstream https://github.com/MIT-DB-Class/go-db-2024.git (push)
+        upstream https://github.com/yale-systems/go-db-2026.git (fetch)
+        upstream https://github.com/yale-systems/go-db-2026.git (push)
    ```
 
 4. Lastly we need to give your repository a new `origin` since it is lacking one. Issue the following command, substituting your athena username:
@@ -144,8 +144,8 @@ You should have Git installed from the previous section.
 
    ```bash
     $ git remote -v
-        upstream https://github.com/MIT-DB-Class/go-db-2024.git (fetch)
-        upstream https://github.com/MIT-DB-Class/go-db-2024.git (push)
+        upstream https://github.com/yale-systems/go-db-2026.git (fetch)
+        upstream https://github.com/yale-systems/go-db-2026.git (push)
         origin https://github.com/[your-username]/[your-repo] (fetch)
         origin https://github.com/[your-username]/[your-repo] (push)
    ```
@@ -296,7 +296,7 @@ Their contact information can be found on the [course homepage](http://dsg.csail
 
 [join]: https://github.com/join
 
-[labs-github]: https://github.com/MIT-DB-Class/go-db-2024.git
+[labs-github]: https://github.com/yale-systems/go-db-2026.git
 
 [missing-semester-version-control]: https://missing.csail.mit.edu/2020/version-control/
 

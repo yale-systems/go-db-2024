@@ -1,5 +1,5 @@
 
-# 6.5830/6.5831 Lab 3: GoDB Transactions
+# 4371/5371 Lab 3: GoDB Transactions
 
 **Assigned:**  Wednesday October 23, 2024
 **Checkpoint Due:**  Wednesday October 30, 2024 by 11:59 ET

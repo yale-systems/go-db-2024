@@ -1,4 +1,4 @@
-# 6.5830/6.5831 Lab 2: GoDB Operators
+# 4371/5371 Lab 2: GoDB Operators
 
 **Assigned:** Tuesday September 24, 2024
 

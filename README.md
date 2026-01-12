@@ -1,8 +1,6 @@
 CPSC 4371/5371 Labs
 ==================
 
-Git repository for labs in [/).
-
 We will be using git, a source code control tool, to distribute labs in
 4371/5371 This will allow you to incrementally download the code for the
 labs, and for us to push any hot fixes that might be necessary.

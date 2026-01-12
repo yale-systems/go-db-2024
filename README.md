@@ -1,10 +1,10 @@
-6.5830/6.5831 Labs
+CPSC 4371/5371 Labs
 ==================
 
-Git repository for labs in [6.5830/6.5831](http://dsg.csail.mit.edu/6.5830/).
+Git repository for labs in [/).
 
 We will be using git, a source code control tool, to distribute labs in
-6.5830/6.5831. This will allow you to incrementally download the code for the
+4371/5371 This will allow you to incrementally download the code for the
 labs, and for us to push any hot fixes that might be necessary.
 
 You will also be able to use git to commit and backup your progress on the labs
@@ -14,7 +14,7 @@ our case, your code will be in a private repository that is visible only to you
 and course staff.
 
 This document describes what you need to do to get started with git, and also
-download and upload 6.5830/6.5831 labs via GitHub.
+download and upload 4371/5371 labs via GitHub.
 
 **If you are not a registered student at MIT, you are welcome to follow along,
 but we ask you to please keep your solution PRIVATE and not make it
